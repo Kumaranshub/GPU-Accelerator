@@ -1,7 +1,4 @@
-# Quick run (no model loading)
-python benchmarks/run_benchmarks.py --quick
-
-🗂️ Project Structure
+Project Structure
 optigpu/
 │
 ├── 📄 framework/
@@ -24,26 +21,6 @@ optigpu/
 ├── requirements.txt
 └── README.md
 
-🔌 Hardware Demo — ESP32-S3 (₹700)
-The physical demo runs a quantized MobileNetV2 model on a ₹700 ESP32-S3 microcontroller, classifying webcam images in real time at 30+ FPS using 0.5 watts.
-
-ESP32-S3 (OptiGPU)
-RTX 5090 (Naive FP32)
-Cost
-₹700
-₹2,50,000
-Power
-0.5W
-575W
-Task
-Image classification
-Image classification
-FPS/Watt
-100
-0.22
-Winner
-✅ 455x more efficient
-❌
 
 See hardware/esp32/ for setup instructions.
 
@@ -60,6 +37,3 @@ See requirements.txt for full dependency list
 
 📄 License
 MIT © 2025 — Free to use, modify, and build on.
-
-
-Built with ₹0 cloud spend. Runs entirely on Google Colab free tier.⭐ Star this repo if it helped your research￼ 
