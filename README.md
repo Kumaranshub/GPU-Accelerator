@@ -1,21 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,40:1a0533,70:0d2137,100:03001C&height=280&section=header&text=OptiGPU&fontSize=96&fontColor=58a6ff&fontAlignY=45&animation=fadeIn&stroke=1a3a5c&strokeWidth=2&desc=The%20software%20optimization%20framework%20that%20beats%20the%20RTX%205090&descSize=15&descColor=8b949e&descAlignY=65"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,40:1a0533,70:0d2137,100:03001C&height=280&section=header&text=OptiGPU&fontSize=96&fontColor=58a6ff&fontAlignY=45&animation=fadeIn&desc=The%20software%20optimization%20framework%20that%20beats%20the%20RTX%205090&descSize=15&descColor=8b949e&descAlignY=65" alt="OptiGPU" />
-</picture>
-
-<br/>
-
-[![CI](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/optigpu/ci.yml?style=flat-square&label=CI%20tests&logo=github&logoColor=white&color=238636)](https://github.com/YOUR_USERNAME/optigpu/actions)
-[![Python](https://img.shields.io/badge/python-3.9_%7C_3.10_%7C_3.11-1f6feb?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Colab](https://img.shields.io/badge/Open_in_Colab-T4_GPU-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/YOUR_USERNAME/optigpu/blob/main/notebooks/OptiGPU_Demo.ipynb)
-[![License](https://img.shields.io/badge/license-MIT-3fb950?style=flat-square)](LICENSE)
-[![version](https://img.shields.io/badge/version-0.1.0-8957e5?style=flat-square)](CHANGELOG.md)
-
-<br/>
-
 <table>
 <tr>
 <td align="center" width="200">
